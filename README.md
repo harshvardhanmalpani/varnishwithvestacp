@@ -1,6 +1,6 @@
 # varnishwithvestacp
-## NO WARRANTY OR ANYTHING LIKE THAT, USE AT YOUR OWN RISK
-Vesta CP config with Nginx + PHP FPM with Varnish proxy for Wordpress
+###### NO WARRANTY OR ANYTHING LIKE THAT, USE AT YOUR OWN RISK
+## Vesta CP config with SSL + Nginx + PHP FPM + Varnish proxy for Wordpress
 
 Thanks to @fevangelou for varnish vcl file
 
